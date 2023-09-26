@@ -114,7 +114,7 @@ body {
 }
 
 .shadow-up {
-    width: 762.09px;
+    width: 531.09px;
     height: 257.1px;
     left: -95px;
     top: -97.03999999999996px;
@@ -220,7 +220,7 @@ body {
     left: 279px;
     top: 88px;
     position: absolute;
-    background: white;
+    /* background: white; */
 }
 
 .img-blur-box-product {
